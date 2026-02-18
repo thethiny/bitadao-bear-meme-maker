@@ -1,4 +1,3 @@
-14_close_up 2
 4 1
 12 1
 1_empty 1
