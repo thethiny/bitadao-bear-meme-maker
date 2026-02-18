@@ -1,6 +1,5 @@
 import os
 import cv2
-import numpy as np
 from moviepy.editor import ImageSequenceClip, AudioFileClip
 
 def get_image_path(image_name, images_dir):
